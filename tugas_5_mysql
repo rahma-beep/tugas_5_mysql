@@ -1,0 +1,8 @@
+1. character set adalah kumpulan karakter yang bisa dipahami oleh komputer yang digunakan
+   jika ingin menggunakan huruf non - latin kedalam mySQL.
+2. istilah lain dari database adalah Schema.
+3. SHOW CHARACTER SET;
+4. SHOW COLLATION;
+5. TINYINT, SMALLINT, MEDIUMINT, BIGINT, dan FLOAT.
+6. CHAR, VARCHAR, TINYTEXT, TEXT, dan MEDIUMTEXT.
+7. DATE, TIME dan DATETIME.
